@@ -1,0 +1,81 @@
+
+
+header {
+    background-color: #061130;
+    color: greenyellow;
+    min-height: 20px;
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.flowerToad {
+    object-position: center;
+    align-self: center;
+    width: 10%;
+}
+
+nav {
+    padding-right: 5px;
+}
+
+span {
+    padding-right: 10px;
+}
+
+#itsToadingTime {
+    background-color: greenyellow;
+    box-shadow: 3px 3px 3px brown;
+    border-radius: 10px;
+    color: brown;
+    font-size: larger;
+    padding: 10px;
+}
+
+main {
+    min-height: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #061130;
+    color: greenyellow;
+}
+
+.toadText {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.mushroomToad {
+    object-position: center;
+    width: 100%;
+}
+
+footer {
+    min-height: 50px;
+    background-color: cyan;
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+
+
+.top {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    color: royalblue;
+    font-size: small;
+    text-decoration: underline;
+}
+
+.bot {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    text-align: center;
+}
