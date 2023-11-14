@@ -7,6 +7,7 @@ header {
     display:flex;
     justify-content: space-between;
     align-items: baseline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .flowerToad {
@@ -38,6 +39,8 @@ main {
     justify-content: space-between;
     background-color: #061130;
     color: greenyellow;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .toadText {
@@ -70,6 +73,7 @@ footer {
     color: royalblue;
     font-size: small;
     text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .bot {
@@ -78,4 +82,5 @@ footer {
     justify-content: center;
     font-style: italic;
     text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
